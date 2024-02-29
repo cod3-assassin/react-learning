@@ -16,7 +16,7 @@ React Functional Componenets concept learning with self reaserch and with the he
    - [05-Fragment-Shorthand](./src/01-Adavnce-jsx/05-Fragment-Shorthand.jsx)
      - Understand the shorthand syntax for fragments in React, useful for returning multiple elements without a parent container.
 
-2. [02-Functional-Components](#02-Functional-Components)
+2. [02-Functional-Components](./src/02-Functional-Components)
    - [01-Simple-func-comp](./src/02-Functional-Components/01-Simple-func-comp.jsx)
      - Explore simple functional components, which are stateless and primarily responsible for rendering UI.
    - [02-Funtional-comp-props](./src/02-Functional-Components/02-Funtional-comp-props.jsx)
@@ -30,7 +30,7 @@ React Functional Componenets concept learning with self reaserch and with the he
    - [06-Challenge](./src/02-Functional-Components/06-Challenge.jsx)
      - Engage in a coding challenge focused on applying knowledge gained from the preceding folders.
 
-3. [03-Props](#03-Props)
+3. [03-Props](./src/03-Props)
    - [01-Component-with-Props](./src/03-Props/01-Component-with-Props.jsx)
      - Discover how React components can receive and utilize props, enabling dynamic content and behavior.
    - [02-Destructuring-Props](./src/03-Props/02-Destructuring-Props.jsx)
@@ -47,7 +47,7 @@ React Functional Componenets concept learning with self reaserch and with the he
      - - [UserPosts](./src/03-Props/06-Challenge/UserPosts.jsx)
      - - [UserProfile](./src/03-Props/06-Challenge/UserProfile.jsx)
 
-4. [04-States](#04-States)
+4. [04-States](./src/04-States)
    - [01-Basic-State-Management](./src/04-States/01-Basic-State-Management.jsx)
      - Learn the fundamentals of state management in React components, covering basic state usage.
    - [02-Multiple-State-Variables](./src/04-States/02-Multiple-State-Variables.jsx)
@@ -75,7 +75,7 @@ React Functional Componenets concept learning with self reaserch and with the he
    - [13-Optimistic-UI-Updates](./src/04-States/13-Optimistic-UI-Updates.jsx)
      - Explore the concept of optimistic UI updates in React, enhancing user experience during asynchronous operations.
 
-5. [05-Destructuring](#05-Destructuring)
+5. [05-Destructuring](./src/05-Destructuring)
    - [01-Object-Destructuring](./src/05-Destructuring/01-Object-Destructuring.jsx)
      - Learn how to destructure objects in JavaScript and apply it to React components.
    - [02-Array-Destructuring](./src/05-Destructuring/02-Array-Destructuring.jsx)
@@ -95,7 +95,7 @@ React Functional Componenets concept learning with self reaserch and with the he
    - [09-Destructuring-in-Class-Components](./src/05-Destructuring/09-Destructuring-in-Class-Components.jsx)
      - This folder demonstrates the use of destructuring in class components in React.
 
-6. [06-DOM-Events](#06-DOM-Events)
+6. [06-DOM-Events](./src/06-DOM-Events)
    - [01-Handling-Click-Events](./src/06-DOM-Events/01-Handling-Click-Events.jsx)
      - Learn how to handle click events in React components and respond to user interactions.
    - [02-Handling-Change-Events](./src/06-DOM-Events/02-Handling-Change-Events.jsx)
@@ -115,7 +115,7 @@ React Functional Componenets concept learning with self reaserch and with the he
    - [09-Global-Event-Listeners](./src/06-DOM-Events/09-Global-Event-Listeners.jsx)
      - This folder demonstrates the usage of global event listeners in React components.
 
-7. [07-Array-immutability](#07-Array-immutability)
+7. [07-Array-immutability](./src/07-Array-immutability)
    - [01-Using-Spread-Operator](./src/07-Array-immutability/01-Using-Spread-Operator.jsx)
      - Understand how to use the spread operator for array immutability in React components.
    - [02-Using-concat()](./src/07-Array-immutability/02-Using-concat().jsx)
