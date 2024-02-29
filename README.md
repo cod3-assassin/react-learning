@@ -5,7 +5,7 @@ React Functional Componenets concept learning with self reaserch and with the he
 ## Table of Contents
 
 1. [01-Adavnce-jsx](#01-Adavnce-jsx)
-   - [01- JSX-Expressions](./src/01-Adavnce-jsx/01- JSX-Expressions.jsx)
+   - [01-JSX-Expressions](./src/01-Adavnce-jsx/01-JSX-Expressions.jsx)
      - This folder contains examples and implementations showcasing JSX expressions, which are a syntactic sugar for JavaScript.
    - [02-Conditional-Rendering](./src/01-Adavnce-jsx/02-Conditional-Rendering.jsx)
      - Explore conditional rendering techniques in React within this folder, providing insights into rendering components based on conditions.
